@@ -34,7 +34,7 @@ css, sass, less, styl, json, svg, tex, oco(Open Color Tools), rcpx(PowerPaint), 
 
 ### Sass, SCSS
 
-```sass
+```scss
 $oc-(color)-(number)
 ```
 
@@ -67,7 +67,7 @@ Import the file to your project and use the variables.
 
 **Example for Sass, SCSS**
 
-```sass
+```scss
 @import 'path/open-color';
 
 .body {
